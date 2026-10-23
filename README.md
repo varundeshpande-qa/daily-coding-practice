@@ -1,2 +1,1 @@
-# daily-coding-practice
-Daily coding practice uploads for tracking coding improvement.
+daily-coding-practice: Daily Python practice problems, each with pytest tests
